@@ -44,7 +44,7 @@ class BoloFactory {
   }
 }
 
-console.log(" Padaria da Ana ");
+console.log("✿ Padaria da Ana ✿");
 
 const bolo1 = BoloFactory.criarBolo("chocolate");
 const bolo2 = BoloFactory.criarBolo("red velvet");
